@@ -18,3 +18,8 @@ Git page
 ##4
 
 "# seunghyunhong.github.io"
+
+
+
+
+<small class="copyright">Designed with <i class="fa fa-heart"></i>by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
